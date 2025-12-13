@@ -533,6 +533,7 @@ Public Enum ClientPacketID
         eDeleteCharacter
     #End If
     eChangeSkinSlot
+    ePetFollowAll
     eMaxPacket
     [PacketCount]
 End Enum
